@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Beginner/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -190,9 +190,9 @@
   },
   "active": "4c7f6ad8756485c6",
   "lastOpenFiles": [
+    "index.md",
     "Metadata-Strategy.md",
     "Sources/index.md",
-    "index.md",
     "Intermediate/index.md",
     "Metadata.md",
     "Experienced/index.md",
