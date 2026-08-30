@@ -1,6 +1,18 @@
 ---
 title: Zoom
 category: Intermediate > Communication
+url: https://zoom.us/download
+location: Apps/Zoom.md
+source_type: app-record
+date_added: 2026-08-30
+author: Zoom Communications, Inc.
+publication_date: unknown
+audience_level: intermediate
+tags: [older-adults, technology, intermediate, communication, video-calls]
+status: to-review
+last_verified: 2026-08-30
+review_due: 2027-02-28
+related: [[Intermediate/index]], [[Apps/FaceTime]], [[Apps/Messages]], [[Apps/Facebook]], [[Sources/index]], [[Metadata Strategy]]
 ---
 
 # Zoom
@@ -9,4 +21,6 @@ category: Intermediate > Communication
 
 Zoom is placed at the intermediate level because joining meetings and managing invitations adds steps beyond a one-to-one call. A future entry can add setup notes and a safety checklist after they are reviewed.
 
-[[Intermediate/index|Back to Intermediate Apps]]
+## Related pages
+
+Compare video-call options with [[Apps/FaceTime|FaceTime]] and [[Apps/Messages|Messages]], explore [[Apps/Facebook|Facebook]], return to [[Intermediate/index|Intermediate Apps]], or read the [[Sources/index|source annotations]].

@@ -1,6 +1,16 @@
 ---
 title: Experienced Apps
-tags: [experienced, older-adults]
+location: Experienced/index.md
+source_type: category-index
+date_added: 2026-08-30
+author: Shawn Morrison
+publication_date: n/a
+audience_level: experienced
+tags: [older-adults, technology, experienced, communication, social, entertainment, navigation]
+status: placeholder
+last_verified: 2026-08-30
+review_due: 2027-02-28
+related: [[index]], [[Beginner/index]], [[Intermediate/index]], [[Sources/index]], [[Metadata Strategy]]
 ---
 
 # Experienced Apps
@@ -19,4 +29,6 @@ This level is reserved for future apps that require a person to make more indepe
 
 - *Placeholder: reviewed entertainment apps will be added here.*
 
-[[index|Back to the main page]]
+## Continue exploring
+
+No apps have been added to this level yet. In the meantime, return to [[Beginner/index|Beginner Apps]], explore [[Intermediate/index|Intermediate Apps]], review the [[Sources/index|source annotations]], or open the [[Metadata Strategy|metadata strategy]].

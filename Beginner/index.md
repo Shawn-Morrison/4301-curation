@@ -1,6 +1,16 @@
 ---
 title: Beginner Apps
-tags: [beginner, older-adults]
+location: Beginner/index.md
+source_type: category-index
+date_added: 2026-08-30
+author: Shawn Morrison
+publication_date: n/a
+audience_level: beginner
+tags: [older-adults, technology, beginner, communication, navigation]
+status: active
+last_verified: 2026-08-30
+review_due: 2027-02-28
+related: [[index]], [[Apps/FaceTime]], [[Apps/Messages]], [[Intermediate/index]], [[Sources/index]], [[Metadata Strategy]]
 ---
 
 # Beginner Apps
@@ -20,4 +30,6 @@ These are for a person who is new to smartphone or tablet apps, or who wants a f
 
 - *Placeholder: reviewed entertainment apps will be added here.*
 
-[[index|Back to the main page]]
+## Continue exploring
+
+Start a direct call with [[Apps/FaceTime|FaceTime]] or [[Apps/Messages|Messages]]. When ready for more choices, visit [[Intermediate/index|Intermediate Apps]], review the [[Sources/index|source annotations]], or return to the [[index|main page]].
