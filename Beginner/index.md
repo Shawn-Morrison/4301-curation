@@ -30,8 +30,8 @@ These are for a person who is new to smartphone or tablet apps, or who wants a f
 
 ## Communication apps
 
-- [FaceTime](Apps/FaceTime)
-- [Messages](Apps/Messages)
+- [FaceTime](../Apps/FaceTime)
+- [Messages](../Apps/Messages)
 
 ## Social apps
 
