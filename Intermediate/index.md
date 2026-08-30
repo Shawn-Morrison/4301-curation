@@ -6,7 +6,14 @@ date_added: 2026-08-30
 author: Shawn Morrison
 publication_date: n/a
 audience_level: intermediate
-tags: [older-adults, technology, intermediate, communication, social, entertainment, navigation]
+tags:
+  - older-adults
+  - technology
+  - intermediate
+  - communication
+  - social
+  - entertainment
+  - navigation
 status: active
 last_verified: 2026-08-30
 review_due: 2027-02-28
@@ -18,7 +25,7 @@ related:
   - "[[Apps/Facebook]]"
   - "[[Apps/YouTube]]"
   - "[[Sources/index]]"
-  - "[[Metadata Strategy]]"
+  - "[[Metadata-Strategy]]"
 ---
 
 # Intermediate Apps
@@ -27,16 +34,16 @@ These apps are useful once someone is comfortable signing in, recognizing contac
 
 ## Communication apps
 
-- [Zoom](../Apps/Zoom.html)
+- [Zoom](/Apps/Zoom)
 
 ## Social apps
 
-- [Facebook](../Apps/Facebook.html)
+- [Facebook](/Apps/Facebook)
 
 ## Entertainment apps
 
-- [YouTube](../Apps/YouTube.html)
+- [YouTube](/Apps/YouTube)
 
 ## Continue exploring
 
-Try [Zoom](../Apps/Zoom.html), [Facebook](../Apps/Facebook.html), or [YouTube](../Apps/YouTube.html). You can also return to [Beginner Apps](../Beginner/), move to [Experienced Apps](../Experienced/), or review the [source annotations](../Sources/).
+Try [Zoom](/Apps/Zoom), [Facebook](/Apps/Facebook), or [YouTube](/Apps/YouTube). You can also return to [Beginner Apps](/Beginner/index), move to [Experienced Apps](/Experienced/index), or review the [source annotations](/Sources/index).

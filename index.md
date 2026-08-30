@@ -6,7 +6,12 @@ date_added: 2026-08-30
 author: Shawn Morrison
 publication_date: n/a
 audience_level: all
-tags: [older-adults, technology, app-curation, digital-confidence, navigation]
+tags:
+  - older-adults
+  - technology
+  - app-curation
+  - digital-confidence
+  - navigation
 status: active
 last_verified: 2026-08-30
 review_due: 2027-02-28
@@ -15,7 +20,7 @@ related:
   - "[[Intermediate/index]]"
   - "[[Experienced/index]]"
   - "[[Sources/index]]"
-  - "[[Metadata Strategy]]"
+  - "[[Metadata-Strategy]]"
 ---
 
 # Confident Technology for Older Adults
@@ -28,9 +33,9 @@ The collection focuses on familiar consumer applications that can help an older 
 
 ## Browse by comfort level
 
-- [Beginner](./Beginner/) - familiar, low-pressure tools for everyday connection.
-- [Intermediate](./Intermediate/) - tools that add accounts, privacy choices, groups, or more navigation.
-- [Experienced](./Experienced/) - reserved for future additions that need greater confidence and independent judgment.
+- [Beginner](Beginner/index) - familiar, low-pressure tools for everyday connection.
+- [Intermediate](Intermediate/index) - tools that add accounts, privacy choices, groups, or more navigation.
+- [Experienced](Experienced/index) - reserved for future additions that need greater confidence and independent judgment.
 
 ## Proposed Organizational Structure
 
@@ -38,7 +43,7 @@ The first level is skill level: beginner, intermediate, and experienced. Each le
 
 ## Initial source annotations
 
-[Read the six initial source annotations](./Sources/) supporting this project's first set of choices and its safety-first approach.
+[Read the six initial source annotations](Sources/index) supporting this project's first set of choices and its safety-first approach.
 
 ## Tool Selection: Obsidian and Markdown
 
@@ -46,4 +51,4 @@ I will use Obsidian and Markdown to build this collection. Obsidian makes the ca
 
 ## Continue exploring
 
-Choose a comfort level: [Beginner](./Beginner/), [Intermediate](./Intermediate/), or [Experienced](./Experienced/). You can also read the [initial source annotations](./Sources/) or the [metadata strategy](./Metadata%20Strategy.html).
+Choose a comfort level: [Beginner](Beginner/index), [Intermediate](Intermediate/index), or [Experienced](Experienced/index). You can also read the [initial source annotations](Sources/index) or the [metadata strategy](Metadata-Strategy).

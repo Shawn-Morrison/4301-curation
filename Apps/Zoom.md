@@ -8,7 +8,12 @@ date_added: 2026-08-30
 author: Zoom Communications, Inc.
 publication_date: unknown
 audience_level: intermediate
-tags: [older-adults, technology, intermediate, communication, video-calls]
+tags:
+  - older-adults
+  - technology
+  - intermediate
+  - communication
+  - video-calls
 status: to-review
 last_verified: 2026-08-30
 review_due: 2027-02-28
@@ -18,7 +23,7 @@ related:
   - "[[Apps/Messages]]"
   - "[[Apps/Facebook]]"
   - "[[Sources/index]]"
-  - "[[Metadata Strategy]]"
+  - "[[Metadata-Strategy]]"
 ---
 
 # Zoom
@@ -29,4 +34,4 @@ Zoom is placed at the intermediate level because joining meetings and managing i
 
 ## Related pages
 
-Compare video-call options with [FaceTime](./FaceTime.html) and [Messages](./Messages.html), explore [Facebook](./Facebook.html), return to [Intermediate Apps](../Intermediate/), or read the [source annotations](../Sources/).
+Compare video-call options with [FaceTime](FaceTime) and [Messages](Messages), explore [Facebook](Facebook), return to [Intermediate Apps](/Intermediate/index), or read the [source annotations](/Sources/index).

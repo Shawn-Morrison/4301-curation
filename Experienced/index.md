@@ -6,7 +6,14 @@ date_added: 2026-08-30
 author: Shawn Morrison
 publication_date: n/a
 audience_level: experienced
-tags: [older-adults, technology, experienced, communication, social, entertainment, navigation]
+tags:
+  - older-adults
+  - technology
+  - experienced
+  - communication
+  - social
+  - entertainment
+  - navigation
 status: placeholder
 last_verified: 2026-08-30
 review_due: 2027-02-28
@@ -15,7 +22,7 @@ related:
   - "[[Beginner/index]]"
   - "[[Intermediate/index]]"
   - "[[Sources/index]]"
-  - "[[Metadata Strategy]]"
+  - "[[Metadata-Strategy]]"
 ---
 
 # Experienced Apps
@@ -36,4 +43,4 @@ This level is reserved for future apps that require a person to make more indepe
 
 ## Continue exploring
 
-No apps have been added to this level yet. In the meantime, return to [Beginner Apps](../Beginner/), explore [Intermediate Apps](../Intermediate/), review the [source annotations](../Sources/), or open the [metadata strategy](../Metadata%20Strategy.html).
+No apps have been added to this level yet. In the meantime, return to [Beginner Apps](/Beginner/index), explore [Intermediate Apps](/Intermediate/index), review the [source annotations](/Sources/index), or open the [metadata strategy](/Metadata-Strategy).

@@ -6,7 +6,12 @@ date_added: 2026-08-30
 author: Shawn Morrison
 publication_date: n/a
 audience_level: beginner
-tags: [older-adults, technology, beginner, communication, navigation]
+tags:
+  - older-adults
+  - technology
+  - beginner
+  - communication
+  - navigation
 status: active
 last_verified: 2026-08-30
 review_due: 2027-02-28
@@ -16,7 +21,7 @@ related:
   - "[[Apps/Messages]]"
   - "[[Intermediate/index]]"
   - "[[Sources/index]]"
-  - "[[Metadata Strategy]]"
+  - "[[Metadata-Strategy]]"
 ---
 
 # Beginner Apps
@@ -25,8 +30,8 @@ These are for a person who is new to smartphone or tablet apps, or who wants a f
 
 ## Communication apps
 
-- [FaceTime](../Apps/FaceTime.html)
-- [Messages](../Apps/Messages.html)
+- [FaceTime](/Apps/FaceTime)
+- [Messages](/Apps/Messages)
 
 ## Social apps
 

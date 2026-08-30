@@ -8,7 +8,12 @@ date_added: 2026-08-30
 author: Apple
 publication_date: unknown
 audience_level: beginner
-tags: [older-adults, technology, beginner, communication, apple]
+tags:
+  - older-adults
+  - technology
+  - beginner
+  - communication
+  - apple
 status: to-review
 last_verified: 2026-08-30
 review_due: 2027-02-28
@@ -17,7 +22,7 @@ related:
   - "[[Apps/Messages]]"
   - "[[Apps/Zoom]]"
   - "[[Sources/index]]"
-  - "[[Metadata Strategy]]"
+  - "[[Metadata-Strategy]]"
 ---
 
 # FaceTime
@@ -28,4 +33,4 @@ FaceTime is included as a familiar starting point for video or audio calls with 
 
 ## Related pages
 
-Pair this with [Messages](./Messages.html), compare it with [Zoom](./Zoom.html), return to [Beginner Apps](../Beginner/), or read the [source annotations](../Sources/).
+Pair this with [Messages](Messages), compare it with [Zoom](Zoom), return to [Beginner Apps](/Beginner/index), or read the [source annotations](/Sources/index).

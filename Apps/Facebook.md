@@ -8,7 +8,12 @@ date_added: 2026-08-30
 author: Meta Platforms, Inc.
 publication_date: unknown
 audience_level: intermediate
-tags: [older-adults, technology, intermediate, social, privacy]
+tags:
+  - older-adults
+  - technology
+  - intermediate
+  - social
+  - privacy
 status: to-review
 last_verified: 2026-08-30
 review_due: 2027-02-28
@@ -17,7 +22,7 @@ related:
   - "[[Apps/YouTube]]"
   - "[[Apps/Zoom]]"
   - "[[Sources/index]]"
-  - "[[Metadata Strategy]]"
+  - "[[Metadata-Strategy]]"
 ---
 
 # Facebook
@@ -28,4 +33,4 @@ Facebook is placed at the intermediate level because it can connect a person wit
 
 ## Related pages
 
-Compare social and media choices with [YouTube](./YouTube.html), use [Zoom](./Zoom.html) for direct meetings, return to [Intermediate Apps](../Intermediate/), or read the [source annotations](../Sources/).
+Compare social and media choices with [YouTube](YouTube), use [Zoom](Zoom) for direct meetings, return to [Intermediate Apps](/Intermediate/index), or read the [source annotations](/Sources/index).

@@ -8,7 +8,12 @@ date_added: 2026-08-30
 author: Google LLC
 publication_date: unknown
 audience_level: intermediate
-tags: [older-adults, technology, intermediate, entertainment, media-literacy]
+tags:
+  - older-adults
+  - technology
+  - intermediate
+  - entertainment
+  - media-literacy
 status: to-review
 last_verified: 2026-08-30
 review_due: 2027-02-28
@@ -17,7 +22,7 @@ related:
   - "[[Apps/Facebook]]"
   - "[[Apps/Zoom]]"
   - "[[Sources/index]]"
-  - "[[Metadata Strategy]]"
+  - "[[Metadata-Strategy]]"
 ---
 
 # YouTube
@@ -28,4 +33,4 @@ YouTube is placed at the intermediate level because it offers a large range of e
 
 ## Related pages
 
-Compare media and social choices with [Facebook](./Facebook.html), use [Zoom](./Zoom.html) for direct meetings, return to [Intermediate Apps](../Intermediate/), or read the [source annotations](../Sources/).
+Compare media and social choices with [Facebook](Facebook), use [Zoom](Zoom) for direct meetings, return to [Intermediate Apps](/Intermediate/index), or read the [source annotations](/Sources/index).

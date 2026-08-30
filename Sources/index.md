@@ -6,7 +6,13 @@ date_added: 2026-08-30
 author: Shawn Morrison
 publication_date: n/a
 audience_level: all
-tags: [older-adults, technology, sources, annotations, research, safety]
+tags:
+  - older-adults
+  - technology
+  - sources
+  - annotations
+  - research
+  - safety
 status: annotated
 last_verified: 2026-08-30
 review_due: 2027-02-28
@@ -17,7 +23,7 @@ related:
   - "[[Experienced/index]]"
   - "[[Apps/Facebook]]"
   - "[[Apps/YouTube]]"
-  - "[[Metadata Strategy]]"
+  - "[[Metadata-Strategy]]"
 ---
 
 # Initial Source Annotations
@@ -62,4 +68,4 @@ These six sources are organized by the collection area they inform. They are the
 
 ## Continue exploring
 
-Return to the [main page](../index.html), browse [Beginner Apps](../Beginner/), [Intermediate Apps](../Intermediate/), or [Experienced Apps](../Experienced/), and review the [metadata strategy](../Metadata%20Strategy.html).
+Return to the [main page](/index), browse [Beginner Apps](/Beginner/index), [Intermediate Apps](/Intermediate/index), or [Experienced Apps](/Experienced/index), and review the [metadata strategy](/Metadata-Strategy).
