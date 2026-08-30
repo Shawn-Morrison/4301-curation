@@ -12,7 +12,12 @@ tags: [older-adults, technology, intermediate, social, privacy]
 status: to-review
 last_verified: 2026-08-30
 review_due: 2027-02-28
-related: [[Intermediate/index]], [[Apps/YouTube]], [[Apps/Zoom]], [[Sources/index]], [[Metadata Strategy]]
+related:
+  - "[[Intermediate/index]]"
+  - "[[Apps/YouTube]]"
+  - "[[Apps/Zoom]]"
+  - "[[Sources/index]]"
+  - "[[Metadata Strategy]]"
 ---
 
 # Facebook

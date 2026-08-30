@@ -12,7 +12,13 @@ tags: [older-adults, technology, intermediate, communication, video-calls]
 status: to-review
 last_verified: 2026-08-30
 review_due: 2027-02-28
-related: [[Intermediate/index]], [[Apps/FaceTime]], [[Apps/Messages]], [[Apps/Facebook]], [[Sources/index]], [[Metadata Strategy]]
+related:
+  - "[[Intermediate/index]]"
+  - "[[Apps/FaceTime]]"
+  - "[[Apps/Messages]]"
+  - "[[Apps/Facebook]]"
+  - "[[Sources/index]]"
+  - "[[Metadata Strategy]]"
 ---
 
 # Zoom

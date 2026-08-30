@@ -10,7 +10,14 @@ tags: [older-adults, technology, sources, annotations, research, safety]
 status: annotated
 last_verified: 2026-08-30
 review_due: 2027-02-28
-related: [[index]], [[Beginner/index]], [[Intermediate/index]], [[Experienced/index]], [[Apps/Facebook]], [[Apps/YouTube]], [[Metadata Strategy]]
+related:
+  - "[[index]]"
+  - "[[Beginner/index]]"
+  - "[[Intermediate/index]]"
+  - "[[Experienced/index]]"
+  - "[[Apps/Facebook]]"
+  - "[[Apps/YouTube]]"
+  - "[[Metadata Strategy]]"
 ---
 
 # Initial Source Annotations

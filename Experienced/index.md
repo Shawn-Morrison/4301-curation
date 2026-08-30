@@ -10,7 +10,12 @@ tags: [older-adults, technology, experienced, communication, social, entertainme
 status: placeholder
 last_verified: 2026-08-30
 review_due: 2027-02-28
-related: [[index]], [[Beginner/index]], [[Intermediate/index]], [[Sources/index]], [[Metadata Strategy]]
+related:
+  - "[[index]]"
+  - "[[Beginner/index]]"
+  - "[[Intermediate/index]]"
+  - "[[Sources/index]]"
+  - "[[Metadata Strategy]]"
 ---
 
 # Experienced Apps

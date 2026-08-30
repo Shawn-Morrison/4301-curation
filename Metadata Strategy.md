@@ -10,7 +10,12 @@ tags: [older-adults, technology, metadata, documentation, maintenance]
 status: active
 last_verified: 2026-08-30
 review_due: 2027-02-28
-related: [[index]], [[Beginner/index]], [[Intermediate/index]], [[Experienced/index]], [[Sources/index]]
+related:
+  - "[[index]]"
+  - "[[Beginner/index]]"
+  - "[[Intermediate/index]]"
+  - "[[Experienced/index]]"
+  - "[[Sources/index]]"
 ---
 
 # Metadata Strategy

@@ -10,7 +10,15 @@ tags: [older-adults, technology, intermediate, communication, social, entertainm
 status: active
 last_verified: 2026-08-30
 review_due: 2027-02-28
-related: [[index]], [[Beginner/index]], [[Experienced/index]], [[Apps/Zoom]], [[Apps/Facebook]], [[Apps/YouTube]], [[Sources/index]], [[Metadata Strategy]]
+related:
+  - "[[index]]"
+  - "[[Beginner/index]]"
+  - "[[Experienced/index]]"
+  - "[[Apps/Zoom]]"
+  - "[[Apps/Facebook]]"
+  - "[[Apps/YouTube]]"
+  - "[[Sources/index]]"
+  - "[[Metadata Strategy]]"
 ---
 
 # Intermediate Apps

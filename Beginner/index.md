@@ -10,7 +10,13 @@ tags: [older-adults, technology, beginner, communication, navigation]
 status: active
 last_verified: 2026-08-30
 review_due: 2027-02-28
-related: [[index]], [[Apps/FaceTime]], [[Apps/Messages]], [[Intermediate/index]], [[Sources/index]], [[Metadata Strategy]]
+related:
+  - "[[index]]"
+  - "[[Apps/FaceTime]]"
+  - "[[Apps/Messages]]"
+  - "[[Intermediate/index]]"
+  - "[[Sources/index]]"
+  - "[[Metadata Strategy]]"
 ---
 
 # Beginner Apps

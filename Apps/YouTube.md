@@ -12,7 +12,12 @@ tags: [older-adults, technology, intermediate, entertainment, media-literacy]
 status: to-review
 last_verified: 2026-08-30
 review_due: 2027-02-28
-related: [[Intermediate/index]], [[Apps/Facebook]], [[Apps/Zoom]], [[Sources/index]], [[Metadata Strategy]]
+related:
+  - "[[Intermediate/index]]"
+  - "[[Apps/Facebook]]"
+  - "[[Apps/Zoom]]"
+  - "[[Sources/index]]"
+  - "[[Metadata Strategy]]"
 ---
 
 # YouTube

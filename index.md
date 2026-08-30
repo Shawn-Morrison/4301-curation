@@ -10,7 +10,12 @@ tags: [older-adults, technology, app-curation, digital-confidence, navigation]
 status: active
 last_verified: 2026-08-30
 review_due: 2027-02-28
-related: [[Beginner/index]], [[Intermediate/index]], [[Experienced/index]], [[Sources/index]], [[Metadata Strategy]]
+related:
+  - "[[Beginner/index]]"
+  - "[[Intermediate/index]]"
+  - "[[Experienced/index]]"
+  - "[[Sources/index]]"
+  - "[[Metadata Strategy]]"
 ---
 
 # Confident Technology for Older Adults
