@@ -27,16 +27,16 @@ These apps are useful once someone is comfortable signing in, recognizing contac
 
 ## Communication apps
 
-- [[Apps/Zoom|Zoom]]
+- [Zoom](../Apps/Zoom.html)
 
 ## Social apps
 
-- [[Apps/Facebook|Facebook]]
+- [Facebook](../Apps/Facebook.html)
 
 ## Entertainment apps
 
-- [[Apps/YouTube|YouTube]]
+- [YouTube](../Apps/YouTube.html)
 
 ## Continue exploring
 
-Try [[Apps/Zoom|Zoom]], [[Apps/Facebook|Facebook]], or [[Apps/YouTube|YouTube]]. You can also return to [[Beginner/index|Beginner Apps]], move to [[Experienced/index|Experienced Apps]], or review the [[Sources/index|source annotations]].
+Try [Zoom](../Apps/Zoom.html), [Facebook](../Apps/Facebook.html), or [YouTube](../Apps/YouTube.html). You can also return to [Beginner Apps](../Beginner/), move to [Experienced Apps](../Experienced/), or review the [source annotations](../Sources/).

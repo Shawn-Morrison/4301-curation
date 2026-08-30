@@ -32,4 +32,4 @@ When a web source or app is reviewed, update `last_verified` after confirming it
 
 ## Related pages
 
-Start at the [[index|main page]], browse [[Beginner/index|Beginner]], [[Intermediate/index|Intermediate]], or [[Experienced/index|Experienced]] apps, or inspect the [[Sources/index|source annotations]].
+Start at the [main page](./index.html), browse [Beginner](./Beginner/), [Intermediate](./Intermediate/), or [Experienced](./Experienced/) apps, or inspect the [source annotations](./Sources/).

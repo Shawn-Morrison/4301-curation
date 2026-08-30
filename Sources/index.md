@@ -62,4 +62,4 @@ These six sources are organized by the collection area they inform. They are the
 
 ## Continue exploring
 
-Return to the [[index|main page]], browse [[Beginner/index|Beginner Apps]], [[Intermediate/index|Intermediate Apps]], or [[Experienced/index|Experienced Apps]], and review the [[Metadata Strategy|metadata strategy]].
+Return to the [main page](../index.html), browse [Beginner Apps](../Beginner/), [Intermediate Apps](../Intermediate/), or [Experienced Apps](../Experienced/), and review the [metadata strategy](../Metadata%20Strategy.html).

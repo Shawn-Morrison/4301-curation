@@ -28,4 +28,4 @@ Facebook is placed at the intermediate level because it can connect a person wit
 
 ## Related pages
 
-Compare social and media choices with [[Apps/YouTube|YouTube]], use [[Apps/Zoom|Zoom]] for direct meetings, return to [[Intermediate/index|Intermediate Apps]], or read the [[Sources/index|source annotations]].
+Compare social and media choices with [YouTube](./YouTube.html), use [Zoom](./Zoom.html) for direct meetings, return to [Intermediate Apps](../Intermediate/), or read the [source annotations](../Sources/).

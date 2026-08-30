@@ -25,8 +25,8 @@ These are for a person who is new to smartphone or tablet apps, or who wants a f
 
 ## Communication apps
 
-- [[Apps/FaceTime|FaceTime]]
-- [[Apps/Messages|Messages]]
+- [FaceTime](../Apps/FaceTime.html)
+- [Messages](../Apps/Messages.html)
 
 ## Social apps
 
@@ -38,4 +38,4 @@ These are for a person who is new to smartphone or tablet apps, or who wants a f
 
 ## Continue exploring
 
-Start a direct call with [[Apps/FaceTime|FaceTime]] or [[Apps/Messages|Messages]]. When ready for more choices, visit [[Intermediate/index|Intermediate Apps]], review the [[Sources/index|source annotations]], or return to the [[index|main page]].
+Start a direct call with [FaceTime](../Apps/FaceTime.html) or [Messages](../Apps/Messages.html). When ready for more choices, visit [Intermediate Apps](../Intermediate/), review the [source annotations](../Sources/), or return to the [main page](../index.html).

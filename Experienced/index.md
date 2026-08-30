@@ -36,4 +36,4 @@ This level is reserved for future apps that require a person to make more indepe
 
 ## Continue exploring
 
-No apps have been added to this level yet. In the meantime, return to [[Beginner/index|Beginner Apps]], explore [[Intermediate/index|Intermediate Apps]], review the [[Sources/index|source annotations]], or open the [[Metadata Strategy|metadata strategy]].
+No apps have been added to this level yet. In the meantime, return to [Beginner Apps](../Beginner/), explore [Intermediate Apps](../Intermediate/), review the [source annotations](../Sources/), or open the [metadata strategy](../Metadata%20Strategy.html).

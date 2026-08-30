@@ -29,4 +29,4 @@ Zoom is placed at the intermediate level because joining meetings and managing i
 
 ## Related pages
 
-Compare video-call options with [[Apps/FaceTime|FaceTime]] and [[Apps/Messages|Messages]], explore [[Apps/Facebook|Facebook]], return to [[Intermediate/index|Intermediate Apps]], or read the [[Sources/index|source annotations]].
+Compare video-call options with [FaceTime](./FaceTime.html) and [Messages](./Messages.html), explore [Facebook](./Facebook.html), return to [Intermediate Apps](../Intermediate/), or read the [source annotations](../Sources/).

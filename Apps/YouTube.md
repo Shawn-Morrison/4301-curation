@@ -28,4 +28,4 @@ YouTube is placed at the intermediate level because it offers a large range of e
 
 ## Related pages
 
-Compare media and social choices with [[Apps/Facebook|Facebook]], use [[Apps/Zoom|Zoom]] for direct meetings, return to [[Intermediate/index|Intermediate Apps]], or read the [[Sources/index|source annotations]].
+Compare media and social choices with [Facebook](./Facebook.html), use [Zoom](./Zoom.html) for direct meetings, return to [Intermediate Apps](../Intermediate/), or read the [source annotations](../Sources/).

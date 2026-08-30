@@ -28,4 +28,4 @@ FaceTime is included as a familiar starting point for video or audio calls with 
 
 ## Related pages
 
-Pair this with [[Apps/Messages|Messages]], compare it with [[Apps/Zoom|Zoom]], return to [[Beginner/index|Beginner Apps]], or read the [[Sources/index|source annotations]].
+Pair this with [Messages](./Messages.html), compare it with [Zoom](./Zoom.html), return to [Beginner Apps](../Beginner/), or read the [source annotations](../Sources/).
