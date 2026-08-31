@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database-Summary.md",
+                "file": "Metadata-Strategy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Database-Summary"
+              "title": "Metadata-Strategy"
             }
           }
         ]
@@ -190,8 +190,8 @@
   },
   "active": "ad193a5cf9f90fe8",
   "lastOpenFiles": [
-    "Apps/Zoom.md",
     "Database-Summary.md",
+    "Apps/Zoom.md",
     "Apps/YouTube.md",
     "Apps/Messages.md",
     "Apps/FaceTime.md",

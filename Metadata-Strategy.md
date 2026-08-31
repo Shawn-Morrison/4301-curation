@@ -33,10 +33,10 @@ When a web source or app is reviewed, update `last_verified` after confirming it
 ## Related pages
 
 View apps:
-[Beginner Apps](../Beginner/index)
-[Intermediate Apps](../Intermediate/index)
-[Experienced Apps](../Experienced/index) 
+[Beginner Apps](Beginner/index)
+[Intermediate Apps](Intermediate/index)
+[Experienced Apps](Experienced/index)
 
-View [Sources and Annotations](../Sources/index)
+View [Sources and Annotations](Sources/index)
 
-Back to [Main Page](../index)
+Back to [Main Page](index)
