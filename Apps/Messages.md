@@ -33,4 +33,12 @@ Messages is included as a familiar starting point for text conversations with kn
 
 ## Related pages
 
-Pair this with [FaceTime](FaceTime), compare it with [Zoom](Zoom), return to [Beginner Apps](/Beginner/index), or read the [source annotations](/Sources/index).
+View other apps:
+[Beginner Apps](../Beginner/index)
+[Intermediate Apps](../Intermediate/index)
+[Experienced Apps](../Experienced/index) 
+
+View [Sources and Annotations](../Sources/index)
+View [Metadata Strategy](../Metadata-Strategy)
+
+Back to [Main Page](../index)

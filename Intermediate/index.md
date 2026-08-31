@@ -34,16 +34,25 @@ These apps are useful once someone is comfortable signing in, recognizing contac
 
 ## Communication apps
 
-- [Zoom](/Apps/Zoom)
+- [Zoom](../Apps/Zoom)
 
 ## Social apps
 
-- [Facebook](/Apps/Facebook)
+- [Facebook](../Apps/Facebook)
 
 ## Entertainment apps
 
-- [YouTube](/Apps/YouTube)
+- [YouTube](../Apps/YouTube)
 
 ## Continue exploring
 
-Try [Zoom](/Apps/Zoom), [Facebook](/Apps/Facebook), or [YouTube](/Apps/YouTube). You can also return to [Beginner Apps](/Beginner/index), move to [Experienced Apps](/Experienced/index), or review the [source annotations](/Sources/index).
+Ready for more?
+Visit:
+[Beginner Apps](../Beginner/index)
+[Intermediate Apps](../Intermediate/index)
+[Experienced Apps](../Experienced/index) 
+
+View [Sources and Annotations](../Sources/index)
+View [Metadata Strategy](../Metadata-Strategy)
+
+Back to [Main Page](../index)

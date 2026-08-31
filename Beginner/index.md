@@ -43,4 +43,12 @@ These are for a person who is new to smartphone or tablet apps, or who wants a f
 
 ## Continue exploring
 
-Start a direct call with [FaceTime](../Apps/FaceTime.html) or [Messages](../Apps/Messages.html). When ready for more choices, visit [Intermediate Apps](../Intermediate/), review the [source annotations](../Sources/), or return to the [main page](../index.html).
+Ready for more?
+Visit:
+[Intermediate Apps](../Intermediate/index)
+[Experienced Apps](../Experienced/index) 
+
+View [Sources and Annotations](../Sources/index)
+View [Metadata Strategy](../Metadata-Strategy)
+
+Back to [Main Page](../index)
