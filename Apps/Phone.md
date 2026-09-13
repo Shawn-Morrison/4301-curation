@@ -1,9 +1,9 @@
 ---
-title: Messages
+title: Phone app
 category: Beginner > Communication
-location: Apps/Messages.md
+location: Apps/Phone.md
 source_type: app-record
-date_added: 2026-08-30
+date_added: 2026-09-13
 audience_level: beginner
 tags:
   - older-adults
@@ -22,11 +22,11 @@ related:
   - "[[Metadata-Strategy]]"
 ---
 
-# Messages
+# Phone
 
 **Category:** Beginner > Communication
 
-Messages is included as a familiar starting point for text conversations with known contacts. A future entry can add setup notes, accessibility options, and a short safety checklist after they are reviewed.
+Phone is a communication app that allows you to make calls out, review incoming or missed calls, and answer incoming calls. When you think of a regular telephone, this is the same thing, just kept in one small application on your mobile device.
 
 ## Related pages
 

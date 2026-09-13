@@ -1,13 +1,11 @@
 ---
 title: Facebook
-category: Intermediate > Social
+category: Intermediate > Social, Experienced > Social
 url: https://www.facebook.com/
 location: Apps/Facebook.md
 source_type: app-record
 date_added: 2026-08-30
-author: Meta Platforms, Inc.
-publication_date: unknown
-audience_level: intermediate
+audience_level: intermediate, experienced
 tags:
   - older-adults
   - technology
@@ -28,8 +26,9 @@ related:
 # Facebook
 
 **Category:** Intermediate > Social
+**Category:** Experienced > Social
 
-Facebook is placed at the intermediate level because it can connect a person with family, friends, and interest groups, while also requiring attention to privacy, posts from strangers, and information quality. A future entry can add setup notes and a safety checklist after they are reviewed.
+Facebook is placed at the [Intermediate](../Intermediate/index) and [Experienced](../Experienced/index) level because it can connect a person with family, friends, and interest groups, while also requiring attention to privacy, posts from strangers, and information quality. NOTE: Facebook Messenger is part of this app, but is not included in the [Intermediate](../Intermediate/index) category because of increase scam risks. 
 
 ## Related pages
 

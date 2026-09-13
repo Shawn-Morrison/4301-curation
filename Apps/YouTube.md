@@ -5,8 +5,6 @@ url: https://www.youtube.com/
 location: Apps/YouTube.md
 source_type: app-record
 date_added: 2026-08-30
-author: Google LLC
-publication_date: unknown
 audience_level: intermediate
 tags:
   - older-adults

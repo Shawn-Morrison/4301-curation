@@ -1,9 +1,9 @@
 ---
-title: Messages
-category: Beginner > Communication
-location: Apps/Messages.md
+title: Photos app
+category: Beginner > Entertainment
+location: Apps/Photos.md
 source_type: app-record
-date_added: 2026-08-30
+date_added: 2026-09-13
 audience_level: beginner
 tags:
   - older-adults
@@ -22,11 +22,12 @@ related:
   - "[[Metadata-Strategy]]"
 ---
 
-# Messages
+# Photos
 
-**Category:** Beginner > Communication
+**Category:** Beginner > Entertainment
+**Category:** Intermediate > Social
 
-Messages is included as a familiar starting point for text conversations with known contacts. A future entry can add setup notes, accessibility options, and a short safety checklist after they are reviewed.
+The Photos app is a gallery (on some phones it is called Gallery) which holds the photos you have taken form your camera app or ones you have saved to your gallery when on your phone. The photos app also holds memories of friends, family, pets, special life events or items you would like to remember or reference later. Some of these items can be shared, so it does have some social benefit as well. 
 
 ## Related pages
 

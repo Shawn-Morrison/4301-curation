@@ -1,9 +1,9 @@
 ---
-title: Messages
-category: Beginner > Communication
-location: Apps/Messages.md
+title: Libby, The Library App
+category: Intermediate > Entertainment
+location: Apps/Libby.md
 source_type: app-record
-date_added: 2026-08-30
+date_added: 2026-09-13
 audience_level: beginner
 tags:
   - older-adults
@@ -22,11 +22,11 @@ related:
   - "[[Metadata-Strategy]]"
 ---
 
-# Messages
+# Libby, The library App
 
-**Category:** Beginner > Communication
+**Category:** Intermediate > Entertainment
 
-Messages is included as a familiar starting point for text conversations with known contacts. A future entry can add setup notes, accessibility options, and a short safety checklist after they are reviewed.
+The Library App, Libby, is an easy to use app that pairs with your local library card to provide access to books, audiobooks, and other resources that are available at your local library, right on your phone. Because this app is free, but can take some initial set up and some knowledge, I have put it in the intermediate category. 
 
 ## Related pages
 

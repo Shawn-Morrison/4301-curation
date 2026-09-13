@@ -31,15 +31,17 @@ This level is reserved for future apps that require a person to make more indepe
 
 ## Communication apps
 
-- *Placeholder: reviewed communication apps will be added here.*
+- [Facebook Messenger](../Apps/Facebook-Messenger)
 
 ## Social apps
 
-- *Placeholder: reviewed social apps will be added here.*
+- [Facebook](..//Apps/Facebook)
+- [Instagram](../Apps/Instagram)
 
 ## Entertainment apps
 
-- *Placeholder: reviewed entertainment apps will be added here.*
+- [Spotify](../Apps/Spotify)
+- [Uber](../Apps/Uber)
 
 ## Continue exploring
 

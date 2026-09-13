@@ -1,9 +1,9 @@
 ---
-title: Messages
-category: Beginner > Communication
-location: Apps/Messages.md
+title: Solitaire
+category: Beginner > Entertainment
+location: Apps/Solitaire.md
 source_type: app-record
-date_added: 2026-08-30
+date_added: 2026-09-13
 audience_level: beginner
 tags:
   - older-adults
@@ -22,11 +22,11 @@ related:
   - "[[Metadata-Strategy]]"
 ---
 
-# Messages
+# Solitaire
 
-**Category:** Beginner > Communication
+**Category:** Beginner > Entertainment
 
-Messages is included as a familiar starting point for text conversations with known contacts. A future entry can add setup notes, accessibility options, and a short safety checklist after they are reviewed.
+The Solitaire app by mobilityware is a simple offline version of the card game solitaire. It does have advertisements, but they are pretty simple to close and because the game can be used when not online, it is very useful for passing time at doctors offices and hospitals where service may be limited. 
 
 ## Related pages
 

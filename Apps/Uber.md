@@ -1,10 +1,10 @@
 ---
-title: Messages
-category: Beginner > Communication
-location: Apps/Messages.md
+title: Uber
+category: Experienced > Entertainment
+location: Apps/Uber.md
 source_type: app-record
-date_added: 2026-08-30
-audience_level: beginner
+date_added: 2026-09-13
+audience_level: experienced
 tags:
   - older-adults
   - technology
@@ -22,11 +22,11 @@ related:
   - "[[Metadata-Strategy]]"
 ---
 
-# Messages
+Uber
 
-**Category:** Beginner > Communication
+**Category:** Experienced > Entertainment
 
-Messages is included as a familiar starting point for text conversations with known contacts. A future entry can add setup notes, accessibility options, and a short safety checklist after they are reviewed.
+Uber is an app that is used to bring a ride-share to take you to another location. While the app itself is easy to use, it does require some set up involving credit/debit card information and other personal information. Still, this app can be great for someone who wants to travel locally without the inconvenience of driving or parking. 
 
 ## Related pages
 

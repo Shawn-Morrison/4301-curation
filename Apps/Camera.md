@@ -1,9 +1,9 @@
 ---
-title: Messages
-category: Beginner > Communication
-location: Apps/Messages.md
+title: Camera app
+category: Beginner > Entertainment
+location: Apps/Camera.md
 source_type: app-record
-date_added: 2026-08-30
+date_added: 2026-09-13
 audience_level: beginner
 tags:
   - older-adults
@@ -22,11 +22,11 @@ related:
   - "[[Metadata-Strategy]]"
 ---
 
-# Messages
+# Camera
 
-**Category:** Beginner > Communication
+**Category:** Beginner > Entertainment
 
-Messages is included as a familiar starting point for text conversations with known contacts. A future entry can add setup notes, accessibility options, and a short safety checklist after they are reviewed.
+Camera is an app used for personal entertainment that allows you to take photos or videos of yourself, your family, pets, important moments, or important items. There are many functions that can be complex for beginners, but there is little risk of use if it is used alone and not in conjunction with other applications.
 
 ## Related pages
 

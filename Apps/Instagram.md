@@ -1,7 +1,7 @@
 ---
-title: Messages
-category: Beginner > Communication
-location: Apps/Messages.md
+title: Instagram
+category: Experienced > Social
+location: Apps/Instagram.md
 source_type: app-record
 date_added: 2026-08-30
 audience_level: beginner
@@ -16,17 +16,17 @@ last_verified: 2026-08-30
 review_due: 2027-02-28
 related:
   - "[[Beginner/index]]"
-  - "[[Apps/FaceTime]]"
+  - "[[Apps/Messages]]"
   - "[[Apps/Zoom]]"
   - "[[Sources/index]]"
   - "[[Metadata-Strategy]]"
 ---
 
-# Messages
+Instagram
 
-**Category:** Beginner > Communication
+**Category:** Experienced > Social
 
-Messages is included as a familiar starting point for text conversations with known contacts. A future entry can add setup notes, accessibility options, and a short safety checklist after they are reviewed.
+Instagram can be used in conjunction with the [Camera](../Apps/Camera) and [Photos](../Apps/Photos) apps to share photos with friends and others online. It should be used with caution because photos can be shared publicly. Experienced users are aware of the dangers of posting personal information in apps like this and scam artists often use Instagram to target seniors. 
 
 ## Related pages
 

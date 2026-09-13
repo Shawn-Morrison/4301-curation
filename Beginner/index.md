@@ -32,14 +32,18 @@ These are for a person who is new to smartphone or tablet apps, or who wants a f
 
 - [FaceTime](../Apps/FaceTime)
 - [Messages](../Apps/Messages)
+- [Phone](../Apps/Phone)
 
 ## Social apps
 
-- *Placeholder: reviewed social apps will be added here.*
+- [Contacts](../Apps/Contacts)
 
 ## Entertainment apps
 
-- *Placeholder: reviewed entertainment apps will be added here.*
+- [Duolingo](../Apps/Duolingo)
+- [Solitaire](../Apps/Solitaire)
+- [Camera](../Apps/Camera)
+- [Photos](..//Apps/Photos)
 
 ## Continue exploring
 

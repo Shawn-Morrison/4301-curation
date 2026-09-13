@@ -39,10 +39,12 @@ These apps are useful once someone is comfortable signing in, recognizing contac
 ## Social apps
 
 - [Facebook](../Apps/Facebook)
+- [Photos](../Apps/Photos)
 
 ## Entertainment apps
 
 - [YouTube](../Apps/YouTube)
+- [Libby](../Apps/Libby)
 
 ## Continue exploring
 

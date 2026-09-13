@@ -1,9 +1,9 @@
 ---
-title: Messages
-category: Beginner > Communication
-location: Apps/Messages.md
+title: Spotify
+category: Experienced > Entertainment
+location: Apps/Spotify.md
 source_type: app-record
-date_added: 2026-08-30
+date_added: 2026-09-13
 audience_level: beginner
 tags:
   - older-adults
@@ -22,11 +22,11 @@ related:
   - "[[Metadata-Strategy]]"
 ---
 
-# Messages
+# Spotify
 
-**Category:** Beginner > Communication
+**Category:** Experienced > Entertainment
 
-Messages is included as a familiar starting point for text conversations with known contacts. A future entry can add setup notes, accessibility options, and a short safety checklist after they are reviewed.
+Spotify is a robust entertainment app that can be used for listening to music, podcasts, or audiobooks. It has many features and can be complex to use. It is in the Experienced category because a person could get easily frustrated trying to use this app, despite it's many benefits. 
 
 ## Related pages
 

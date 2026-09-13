@@ -1,9 +1,9 @@
 ---
-title: Messages
-category: Beginner > Communication
-location: Apps/Messages.md
+title: Contacts app
+category: Beginner > Social
+location: Apps/contacts.md
 source_type: app-record
-date_added: 2026-08-30
+date_added: 2026-09-13
 audience_level: beginner
 tags:
   - older-adults
@@ -22,11 +22,11 @@ related:
   - "[[Metadata-Strategy]]"
 ---
 
-# Messages
+# Contacts
 
-**Category:** Beginner > Communication
+**Category:** Beginner > Social
 
-Messages is included as a familiar starting point for text conversations with known contacts. A future entry can add setup notes, accessibility options, and a short safety checklist after they are reviewed.
+Contacts is like a phone book for your phone. You can keep a running record of friends and family contact information that is held in a single place on your phone. Think of this like a personal rolodex of your contacts.  
 
 ## Related pages
 
