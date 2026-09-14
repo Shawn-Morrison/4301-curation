@@ -5,8 +5,6 @@ url: https://zoom.us/download
 location: Apps/Zoom.md
 source_type: app-record
 date_added: 2026-08-30
-author: Zoom Communications, Inc.
-publication_date: unknown
 audience_level: intermediate
 tags:
   - older-adults

@@ -45,6 +45,7 @@ These apps are useful once someone is comfortable signing in, recognizing contac
 
 - [YouTube](../Apps/YouTube)
 - [Libby](../Apps/Libby)
+- [Kindle](../Apps/Kindle)
 
 ## Continue exploring
 

@@ -32,51 +32,58 @@ These sources are organized by the collected for the curation of apps used for t
 
 # 1 
 ### [Older Adults and Technology: Moving Beyond the Stereotypes](https://longevity.stanford.edu/older-adults-and-technology-moving-beyond-the-stereotypes/)
-Type: Professional Source
-Author: Susan Nash - Visiting Scholar at the Stanford Center on Longevity
-Last date accessed: 9/13/2026
+**Category placement:** All skill levels
+**Type:** Professional Source
+**Author:** Susan Nash - Visiting Scholar at the Stanford Center on Longevity
+**Last date accessed:** 9/13/2026
 **Annotation:** This Stanford Center on Longevity article examines older adults' technology use, digital-literacy gaps, misinformation, and the effect of stereotypes on confidence. It is valuable because it supports the curation's central idea: older adults can learn technology when instruction is purposeful, patient, and confidence-building. It is most useful for caregivers, educators, and family members who need context for why the collection begins with beginner level apps. It addresses broad digital literacy rather than app instructions and was published in 2019, so it guides the project's approach instead of providing current app-specific advice.
 
 # 2
 ### [Technology for Seniors Made Easy](https://treasureyourlifenow.com/)
-Type: Curated Source
-Author: Sheila Finkelstein
-Last date accessed: 9/13/2026
+**Category placement:** All skill levels
+**Type:** Curated Source
+**Author:** Sheila Finkelstein
+**Last date accessed**: 9/13/2026
 **Annotation:** Sheila Finkelstein's Technology for Seniors describes a teaching approach centered on helping boomers and seniors feel secure using technology and social media to connect with others. It is valuable because it reinforces the project's emphasis on connection and confidence rather than treating older users as incapable. It is most useful for an older adult or family member looking for approachable, video-based learning. The resource is creator-led rather than peer-reviewed, and the page points to a channel and related materials instead of one defined tutorial. 
 
 # 3
 ### [Seniors in the Digital Age](https://www.amazon.com/Seniors-Digital-Age-Beginner-Friendly-Confidence-ebook/dp/B0H854HBY5/ref=sr_1_1?crid=27JPRZPC9C1G2&dib=eyJ2IjoiMSJ9.an-AVM2UPSpiyBUN_b5SNzcWHRv_d_1XswNL_EbWxKRYN9x_tKIwsK9sLJ82idVTYP2uogxBWBrmgQIno9yen7cbvlfQ9vwivClvVuzgsrSwyZeZx77GVDDOarSi63nDLei08gjFado7rOGE87l-wR9HyuOlmWBstp4qyl2RoDA3odHbx6nEPjx9BArYXoDTtlW7Sdy2LTUNPtQuhETE358BjY3aIv1fsNUbuD1aYFI.4UzEIIhXSofmWn9XlzG2zArnyZ8hvEokuXvyRqb9lrY&dib_tag=se&keywords=seniors+in+the+digital+age&qid=1789328435&s=books&sprefix=seniors+in+the+digital+age%2Cstripbooks%2C158&sr=1-1)
 Knowles, B., (2026). *Seniors in the Digital Age: A beginner-Friendly Guide to Phones, Computers, Apps, Avoid Scams, Internet Safety, and Online Confidence.* Dr Barry Knowles 2026
-Type: Scholarly Source
-Author: Dr. Barry Knowles
+**Category placement:** All skill levels
+**Type:** Scholarly Source
+**Author:** Dr. Barry Knowles
 **Annotation:** Dr. Barry Knowles' book, Seniors in the Digital Age, acts as a guide to technology and digital devices. It is valuable because it connects the reader through relatable stories, offers-real world solutions, and real consequences due to incorrect use. It is most useful for an older adult because the book is written to the reader. This resources does not discuss specific apps for social media, and may not add value in the expert category. 
 
 # 4
 ### [Best Social Media Apps for Seniors in 2026](https://www.seniorliving.org/cell-phone/apps/social-media/)
-Type: Trade Source
-Author: Taylor Shuman - Senior Tech Expert & Editor
-Date last accessed: 9/13/2026
+**Category placement:** All skill levels
+**Type**: Trade Source
+**Author**: Taylor Shuman - Senior Tech Expert & Editor
+**Date** **last accessed**: 9/13/2026
 **Annotation:** This SeniorLiving.org guide compares social options that older adults may use to connect with family, friends, hobbies, and local communities. It is valuable because it discusses Facebook, YouTube, and other services in an older-adult context and identifies limitations, such as contentious neighborhood posts. It is most useful for an older adult or helper deciding whether a social platform matches a specific interest. SeniorLiving.org is a commercial publisher that may use affiliate or commission relationships and as such may be biased
 
 # 5
 ### [Older Adults' Use of Facebook Continues to Grow](https://www.aarp.org/home-family/personal-technology/info-2018/facebook-older-americans-privacy.html)
-Type: Trade Source
-Author: Patrick J. Kiger
-Date last accessed: 9/13/2026
+**Category placement:** Intermediate, Experienced
+**Type**: Trade Source
+**Author**: Patrick J. Kiger
+**Date last accessed:** 9/13/2026
 **Annotation:** This AARP article reports on Facebook adoption among adults 50 and older and highlights their concerns about personal data. It is valuable because it supports Facebook's placement as a useful but more cautious social option: it can be familiar and widely used, yet privacy cannot be ignored. It is most useful for a reader deciding whether Facebook belongs beyond the beginner level and for a helper planning a privacy conversation before setup. The article is from 2018, so its polling figures are not current platform statistics. It provides context, not a current privacy-settings tutorial or a guarantee of safety.
 
 # 6
 ### [News Use Across Social Media Platforms 2016](https://www.pewresearch.org/journalism/2016/05/26/news-use-across-social-media-platforms-2016/)
-Type: Primary Source
-Author: Jeffrey Gottfried and Elisa Shearer
-Date last accessed: 9/13/2026
+**Category placement:** Intermediate, Experienced
+**Type**: Primary Source
+**Author**: Jeffrey Gottfried and Elisa Shearer
+**Date last accessed:** 9/13/2026
 **Annotation:** This Pew Research Center report analyzes how U.S. adults encountered news across major social media services, including Facebook and YouTube. It is valuable because it explains why information quality belongs in a safety-focused collection: people may encounter news while using a platform for another purpose. It is most useful for readers and helpers who need a research-based reason to discuss pausing, checking sources, and avoiding trust in social content. The study is methodologically transparent, but it is from 2016 and measures news use rather than older-adult app skill. It is background evidence, not a platform recommendation.
 
 # 7
 ### [Choosing a Kindle Fire for the Senior in Your Life](https://www.assistedliving.org/best-tablets-for-seniors/choosing-a-kindle-fire-for-the-senior-in-your-life/)
-Type: Trade Source
-Author: not listed
-Date last accessed: 9/13/2026
+**Category placement:** All skill levels
+**Type:** Trade Source
+**Author:** not listed
+**Date last accessed**: 9/13/2026
 **Annotation:** This AssistedLiving.org article reviews Kindle Fire devices as reading and entertainment tools and notes features such as larger text, media access, and app downloads. It is valuable because it adds device context to the collection: whether an app feels approachable can depend on screen size, text readability, and access to entertainment. It is most useful for a family member considering a tablet for reading, videos, or simple apps. The article centers on a device line and is older, so its model details and prices should not be treated as current. It does not evaluate every app's safety or usability.
 
 # 8
