@@ -136,6 +136,35 @@ Knowles, B., (2026). *Seniors in the Digital Age: A beginner-Friendly Guide to P
 **Author**: Rachel Hartman  
 **Date last accessed**: 9/13/2026  
 **Annotation:** This U.S. News & World Report article outlines ten tech tools intended to support older adults, ranging from smartphones and tablets to medical alert systems, financial planning platforms, and video‑calling apps. It’s valuable because it provides a broad overview of how different technologies can enhance safety, communication, and daily independence for seniors. Readers who want a general survey of senior‑focused technology, especially beginners exploring multiple categories at once, may find it helpful. However, the source extends far beyond apps and includes financial and investment tools that require technical knowledge, making it less aligned with app‑focused research. Its wide scope also means individual apps are not evaluated in depth.
+
+# 16
+### [Social Media For Senior Adults : r/socialmedia](https://www.reddit.com/r/socialmedia/comments/1vrc248/social_media_for_senior_adults/?solution=79b85d11291fcb7e79b85d11291fcb7e&js_challenge=1&jsc_token=7afd7253fec22262ff1c52b1703fe9eceac5458ef5cb9a2b943ac56bbf2f817d&jsc_orig_r=)
+**Type**: Community Source  
+**Author**: [Ancient_Radio12345](https://www.reddit.com/user/Ancient_Radio12345/)  
+**Date last accessed**: 9/13/2026  
+**Annotation:** This Reddit discussion centers on how senior adults use social media, with commenters sharing personal experiences, practical tips, and concerns about accessibility, safety, and platform complexity. It’s valuable because it provides authentic, community‑driven insight rather than expert or commercial guidance, highlighting real challenges older adults face. They mention navigating interfaces, avoiding scams, and staying socially connected. The thread also points out that video‑calling tools and simple communication apps often feel more intuitive for seniors than full social platforms. This source benefits caregivers, beginners researching user experiences, and anyone wanting to understand seniors’ perspectives directly. Its limitations include anecdotal bias, uneven accuracy, and the informal nature of Reddit discussions.
+
+# 17
+### [Apps for older people? : r/AskOldPeople](https://www.reddit.com/r/AskOldPeople/comments/1ge5px8/apps_for_older_people/)
+**Type**: Community Source  
+**Author**: [RileyWritesAllDay](https://www.reddit.com/user/RileyWritesAllDay/)  
+**Date last accessed**: 9/13/2026  
+**Annotation:** This Reddit thread features older adults sharing firsthand recommendations about apps that make daily life easier, safer, or more enjoyable. Commenters discuss tools for medication reminders, simplified communication, video calling, brain‑training games, and apps that reduce complexity for users who prefer straightforward interfaces. Its value comes from authentic, experience‑based insight rather than expert reviews, revealing what seniors actually use, avoid, or find confusing. This makes it especially helpful for understanding real‑world usability and the kinds of features older adults prioritize. The source benefits caregivers, beginners researching senior‑friendly apps, and anyone wanting practical, lived perspectives. Its limitations include anecdotal bias, inconsistent detail, and the informal nature of community discussions.
+
+# 18
+### [Please suggest apps that elderly people will be interested in. : r/androidapps](https://www.reddit.com/r/androidapps/comments/dpkrhy/please_suggest_apps_that_elderly_people_will_be/)
+**Type**: Community Source  
+**Author**: Deleted  
+**Date last accessed**: 9/13/2026  
+**Annotation:** This archived Reddit thread gathers community suggestions for Android apps that elderly users may find approachable, focusing on simplicity, clear interfaces, and tools that support communication and daily tasks. Commenters recommend apps for video calling, large‑text reading, medication reminders, and streamlined launchers that reduce clutter and confusion. Its value lies in the practical, experience‑based advice from everyday users rather than experts, offering insight into what actually works for seniors who prefer minimal complexity. The discussion is useful for caregivers, beginners researching senior‑friendly Android options, and anyone seeking real‑world usability feedback. A key limitation is that the post is archived and the original author is deleted, which reduces context, credibility, and prevents updated community input.
+
+# 19
+### [An app where adult kids manage their elderly parents' passwords : r/SomebodyMakeThis](https://www.reddit.com/r/SomebodyMakeThis/comments/1vit5w3/an_app_where_adult_kids_manage_their_elderly/)
+**Type**: Community Source  
+**Author**: [Main-Bee-7134](https://www.reddit.com/user/Main-Bee-7134/)  
+**Date last accessed**: 9/13/2026  
+**Annotation:** This Reddit post proposes an app concept where adult children can help manage their elderly parents’ digital lives, focusing on shared access, simplified oversight, and tools that reduce confusion for seniors who struggle with modern interfaces. Community members expand on the idea by suggesting features such as remote troubleshooting, streamlined communication, medication reminders, and ways to prevent tech‑related overwhelm. Its value comes from the collaborative brainstorming and real‑world frustrations people describe, offering insight into gaps in current senior‑focused apps and what families actually need. This source benefits caregivers, designers, and anyone researching practical support tools for older adults. A limitation is that it’s speculative and community suggestions vary in detail and feasibility.
+
 ## Continue exploring
 
 View apps:  
