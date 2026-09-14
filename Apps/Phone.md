@@ -30,12 +30,12 @@ Phone is a communication app that allows you to make calls out, review incoming 
 
 ## Related pages
 
-View other apps:
-[Beginner Apps](../Beginner/index)
-[Intermediate Apps](../Intermediate/index)
-[Experienced Apps](../Experienced/index) 
-
-View [Sources and Annotations](../Sources/index)
-View [Metadata Strategy](../Metadata-Strategy)
-
-Back to [Main Page](../index)
+View other apps:  
+[Beginner Apps](../Beginner/index)  
+[Intermediate Apps](../Intermediate/index)  
+[Experienced Apps](../Experienced/index)  
+  
+View [Sources and Annotations](../Sources/index)  
+View [Metadata Strategy](../Metadata-Strategy)  
+  
+Back to [Main Page](../index)  

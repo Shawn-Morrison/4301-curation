@@ -30,12 +30,12 @@ Uber is an app that is used to bring a ride-share to take you to another locatio
 
 ## Related pages
 
-View other apps:
-[Beginner Apps](../Beginner/index)
-[Intermediate Apps](../Intermediate/index)
-[Experienced Apps](../Experienced/index) 
-
-View [Sources and Annotations](../Sources/index)
-View [Metadata Strategy](../Metadata-Strategy)
-
-Back to [Main Page](../index)
+View other apps:  
+[Beginner Apps](../Beginner/index)  
+[Intermediate Apps](../Intermediate/index)  
+[Experienced Apps](../Experienced/index)  
+  
+View [Sources and Annotations](../Sources/index)  
+View [Metadata Strategy](../Metadata-Strategy)  
+  
+Back to [Main Page](../index)  

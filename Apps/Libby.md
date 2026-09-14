@@ -30,12 +30,12 @@ The Library App, Libby, is an easy to use app that pairs with your local library
 
 ## Related pages
 
-View other apps:
-[Beginner Apps](../Beginner/index)
-[Intermediate Apps](../Intermediate/index)
-[Experienced Apps](../Experienced/index) 
-
-View [Sources and Annotations](../Sources/index)
-View [Metadata Strategy](../Metadata-Strategy)
-
-Back to [Main Page](../index)
+View other apps:  
+[Beginner Apps](../Beginner/index)  
+[Intermediate Apps](../Intermediate/index)  
+[Experienced Apps](../Experienced/index)  
+  
+View [Sources and Annotations]( ../Sources/index )
+View [Metadata Strategy](../Metadata-Strategy)  
+  
+Back to [Main Page](../index)  

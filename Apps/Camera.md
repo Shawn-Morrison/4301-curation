@@ -30,12 +30,12 @@ Camera is an app used for personal entertainment that allows you to take photos 
 
 ## Related pages
 
-View other apps:
-[Beginner Apps](../Beginner/index)
-[Intermediate Apps](../Intermediate/index)
-[Experienced Apps](../Experienced/index) 
-
-View [Sources and Annotations](../Sources/index)
-View [Metadata Strategy](../Metadata-Strategy)
-
-Back to [Main Page](../index)
+View other apps:  
+[Beginner Apps](../Beginner/index)  
+[Intermediate Apps](../Intermediate/index)  
+[Experienced Apps](../Experienced/index)  
+  
+View [Sources and Annotations](../Sources/index)  
+View [Metadata Strategy](../Metadata-Strategy)  
+  
+Back to [Main Page](../index)  

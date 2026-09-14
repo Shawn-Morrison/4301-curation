@@ -30,12 +30,12 @@ Contacts is like a phone book for your phone. You can keep a running record of f
 
 ## Related pages
 
-View other apps:
-[Beginner Apps](../Beginner/index)
-[Intermediate Apps](../Intermediate/index)
-[Experienced Apps](../Experienced/index) 
-
-View [Sources and Annotations](../Sources/index)
-View [Metadata Strategy](../Metadata-Strategy)
-
-Back to [Main Page](../index)
+View other apps:  
+[Beginner Apps](../Beginner/index)  
+[Intermediate Apps](../Intermediate/index)  
+[Experienced Apps](../Experienced/index)  
+  
+View [Sources and Annotations](../Sources/index)  
+View [Metadata Strategy](../Metadata-Strategy)  
+  
+Back to [Main Page](../index)  

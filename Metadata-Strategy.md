@@ -1,12 +1,17 @@
 ---
 title: Metadata Strategy
-location: Metadata Strategy.md
+location: Metadata-Strategy.md
 source_type: collection-documentation
 date_added: 2026-08-30
 author: Shawn Morrison
 publication_date: n/a
 audience_level: all
-tags: [older-adults, technology, metadata, documentation, maintenance]
+tags:
+  - older-adults
+  - technology
+  - metadata
+  - documentation
+  - maintenance
 status: active
 last_verified: 2026-08-30
 review_due: 2027-02-28
@@ -32,11 +37,11 @@ When a web source or app is reviewed, update `last_verified` after confirming it
 
 ## Related pages
 
-View apps:
-[Beginner Apps](Beginner/index)
-[Intermediate Apps](Intermediate/index)
-[Experienced Apps](Experienced/index)
-
-View [Sources and Annotations](Sources/index)
-
-Back to [Main Page](index)
+View apps:  
+[Beginner Apps](Beginner/index)  
+[Intermediate Apps](Intermediate/index)  
+[Experienced Apps](Experienced/index)  
+  
+View [Sources and Annotations](Sources/index)  
+  
+Back to [Main Page](index)  

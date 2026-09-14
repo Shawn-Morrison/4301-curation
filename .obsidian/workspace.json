@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
@@ -191,11 +191,10 @@
   "active": "a241e54c4d1db2c1",
   "lastOpenFiles": [
     "Database-Summary.md",
-    "index.md",
     "Sources/index.md",
-    "Apps/Libby.md",
-    "Apps/Contacts.md",
-    "Apps/Camera.md",
+    "Intermediate/index.md",
+    "Experienced/index.md",
+    "Beginner/index.md",
     "Apps/Zoom.md",
     "Apps/YouTube.md",
     "Apps/Uber.md",
@@ -204,16 +203,17 @@
     "Apps/Photos.md",
     "Apps/Phone.md",
     "Apps/Messages.md",
+    "Apps/Libby.md",
     "Apps/Kindle.md",
     "Apps/Instagram.md",
     "Apps/FaceTime.md",
     "Apps/Facebook-Messenger.md",
     "Apps/Facebook.md",
     "Apps/Duolingo.md",
+    "Apps/Contacts.md",
+    "Apps/Camera.md",
     "Metadata-Strategy.md",
-    "Experienced/index.md",
-    "Intermediate/index.md",
-    "Beginner/index.md",
+    "index.md",
     "Apps/FaceTime 1.md",
     "().md"
   ]

@@ -45,13 +45,12 @@ This level is reserved for future apps that require a person to make more indepe
 
 ## Continue exploring
 
-No apps have been added to this level yet. In the meantime:
-Ready for more?
-Visit:
-[Beginner Apps](../Beginner/index)
-[Intermediate Apps](../Intermediate/index)
-
-View [Sources and Annotations](../Sources/index)
-View [Metadata Strategy](../Metadata-Strategy)
-
-Back to [Main Page](../index)
+Ready for more?  
+Visit:  
+[Beginner Apps](../Beginner/index)  
+[Intermediate Apps](../Intermediate/index)  
+  
+View [Sources and Annotations](../Sources/index)  
+View [Metadata Strategy](../Metadata-Strategy)  
+  
+Back to [Main Page](../index)  
