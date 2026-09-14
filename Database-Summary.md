@@ -3,7 +3,7 @@ CPMA 4301 - Early Fall 2026
   
 Because Obsidian does not let you export to PDF, I have created this database summary which will act as a "PDF Repository" where all the pages will live. They are Separated by Headers so you know which each page is for starting with the main page. This page will not be live and will not be able to be viewed by readers.  
   
-You can view the page by clicking [here](https://shawn-morrison.github.io/4301-curation/).  
+You can view the actual live page by clicking [here](https://shawn-morrison.github.io/4301-curation/).  
 You can view the files in the repository by clicking on [this link](https://github.com/Shawn-Morrison/4301-curation).  
 
 # /index (Main Page)
@@ -34,11 +34,11 @@ related:
 
 # Confident Technology for Older Adults
 
-## Topic Statement and Scope
+## Topic Purpose Statement, Scope, and Navigation Instructions
 
-This curation is a growing guide to applications older adults can use to stay connected, socialize, and enjoy entertainment with less fear and less intimidation. I chose this topic because I have always felt connected to senior citizens and serving them. Recently, older people in my community have been targeted by bad actors, and many people at my church have told me they avoid technology because they do not feel confident using it. I want to build a resource that makes useful technology feel more approachable.  
-  
-The collection focuses on familiar consumer applications that can help an older adult communicate with people they know, participate in social spaces, or enjoy media. It begins with a small, carefully placed set of apps named in my source-discovery work. It is not a promise that any app is completely risk-free, a substitute for individual safety training, a device-buying guide, or a list of financial, dating, shopping, medical, or security-management apps. Those areas can require different safeguards and will not be added without deliberate review.  
+This curation is a guide to applications older adults can use to stay connected, socialize, and enjoy entertainment with less fear and less intimidation. I chose this topic because I have always felt connected to senior citizens and serving them. Recently, older people in my community have been targeted by bad actors, and many people at my church have told me they avoid technology because they do not feel confident using it. I want to build a resource that makes useful technology feel more approachable.
+
+The collection focuses on familiar consumer applications that can help an older adult communicate with people they know, participate in social spaces, or enjoy media. A user would begin by clicking on their technology comfort level, then dive in by the application use-case (Communication, Social, or Entertainment). It is not a promise that any app is completely risk-free, a substitute for individual safety training, a device-buying guide, or a list of financial, dating, shopping, medical, or security-management apps. Those areas can require different safeguards and will not be added without deliberate review.
 
 ## Browse by comfort level
 
@@ -48,7 +48,7 @@ The collection focuses on familiar consumer applications that can help an older 
 
 ## Proposed Organizational Structure
 
-The first level is skill level: beginner, intermediate, and experienced. Each level is then divided into communication, social, and entertainment apps. This makes the categories mutually exclusive at the first decision point: a reader can start with how comfortable they feel rather than having to understand app features first. The second level lets them find the purpose they need, such as calling family or watching videos. The arrangement also keeps safety in view: apps with more public interaction, privacy settings, recommendations, or content from strangers are placed later in the learning path.
+The first level is skill/comfort level: beginner, intermediate, and experienced. Each level is then divided into communication, social, and entertainment apps. This makes the categories mutually exclusive at the first decision point: a reader can start with how comfortable they feel rather than having to understand app features first. The second level lets them find the purpose they need, such as calling family or watching videos. The arrangement also keeps safety in view: apps with more public interaction, privacy settings, recommendations, or content from strangers are placed later in the learning path.
 
 ## Source Annotations
 
@@ -61,6 +61,7 @@ I will use Obsidian and Markdown to build this collection. Obsidian makes the ca
 ## Continue exploring
 
 Choose a comfort level: [Beginner](Beginner/index), [Intermediate](Intermediate/index), or [Experienced](Experienced/index). You can also read the [Source Annotations](Sources/index) or the [metadata strategy](Metadata-Strategy).
+
 
 
 # Beginner/index

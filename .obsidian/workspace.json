@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Database-Summary.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Database-Summary"
             }
           }
         ]
@@ -190,6 +190,7 @@
   },
   "active": "a241e54c4d1db2c1",
   "lastOpenFiles": [
+    "index.md",
     "Database-Summary.md",
     "Sources/index.md",
     "Intermediate/index.md",
@@ -213,7 +214,6 @@
     "Apps/Contacts.md",
     "Apps/Camera.md",
     "Metadata-Strategy.md",
-    "index.md",
     "Apps/FaceTime 1.md",
     "().md"
   ]

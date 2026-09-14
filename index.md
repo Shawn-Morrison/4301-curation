@@ -25,11 +25,11 @@ related:
 
 # Confident Technology for Older Adults
 
-## Topic Statement and Scope
+## Topic Purpose Statement, Scope, and Navigation Instructions
 
-This curation is a growing guide to applications older adults can use to stay connected, socialize, and enjoy entertainment with less fear and less intimidation. I chose this topic because I have always felt connected to senior citizens and serving them. Recently, older people in my community have been targeted by bad actors, and many people at my church have told me they avoid technology because they do not feel confident using it. I want to build a resource that makes useful technology feel more approachable.
+This curation is a guide to applications older adults can use to stay connected, socialize, and enjoy entertainment with less fear and less intimidation. I chose this topic because I have always felt connected to senior citizens and serving them. Recently, older people in my community have been targeted by bad actors, and many people at my church have told me they avoid technology because they do not feel confident using it. I want to build a resource that makes useful technology feel more approachable.
 
-The collection focuses on familiar consumer applications that can help an older adult communicate with people they know, participate in social spaces, or enjoy media. It begins with a small, carefully placed set of apps named in my source-discovery work. It is not a promise that any app is completely risk-free, a substitute for individual safety training, a device-buying guide, or a list of financial, dating, shopping, medical, or security-management apps. Those areas can require different safeguards and will not be added without deliberate review.
+The collection focuses on familiar consumer applications that can help an older adult communicate with people they know, participate in social spaces, or enjoy media. A user would begin by clicking on their technology comfort level, then dive in by the application use-case (Communication, Social, or Entertainment). It is not a promise that any app is completely risk-free, a substitute for individual safety training, a device-buying guide, or a list of financial, dating, shopping, medical, or security-management apps. Those areas can require different safeguards and will not be added without deliberate review.
 
 ## Browse by comfort level
 
@@ -39,7 +39,7 @@ The collection focuses on familiar consumer applications that can help an older 
 
 ## Proposed Organizational Structure
 
-The first level is skill level: beginner, intermediate, and experienced. Each level is then divided into communication, social, and entertainment apps. This makes the categories mutually exclusive at the first decision point: a reader can start with how comfortable they feel rather than having to understand app features first. The second level lets them find the purpose they need, such as calling family or watching videos. The arrangement also keeps safety in view: apps with more public interaction, privacy settings, recommendations, or content from strangers are placed later in the learning path.
+The first level is skill/comfort level: beginner, intermediate, and experienced. Each level is then divided into communication, social, and entertainment apps. This makes the categories mutually exclusive at the first decision point: a reader can start with how comfortable they feel rather than having to understand app features first. The second level lets them find the purpose they need, such as calling family or watching videos. The arrangement also keeps safety in view: apps with more public interaction, privacy settings, recommendations, or content from strangers are placed later in the learning path.
 
 ## Source Annotations
 
