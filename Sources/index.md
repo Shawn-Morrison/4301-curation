@@ -32,18 +32,18 @@ These sources are organized by the collected for the curation of apps used for t
 
 # 1 
 ### [Older Adults and Technology: Moving Beyond the Stereotypes](https://longevity.stanford.edu/older-adults-and-technology-moving-beyond-the-stereotypes/)
-**Category placement:** All skill levels
-**Type:** Professional Source
-**Author:** Susan Nash - Visiting Scholar at the Stanford Center on Longevity
-**Last date accessed:** 9/13/2026
+* ***Category placement:** All skill levels
+* **Type:** Professional Source
+* **Author:** Susan Nash - Visiting Scholar at the Stanford Center on Longevity
+* **Last date accessed:** 9/13/2026  
 **Annotation:** This Stanford Center on Longevity article examines older adults' technology use, digital-literacy gaps, misinformation, and the effect of stereotypes on confidence. It is valuable because it supports the curation's central idea: older adults can learn technology when instruction is purposeful, patient, and confidence-building. It is most useful for caregivers, educators, and family members who need context for why the collection begins with beginner level apps. It addresses broad digital literacy rather than app instructions and was published in 2019, so it guides the project's approach instead of providing current app-specific advice.
 
 # 2
 ### [Technology for Seniors Made Easy](https://treasureyourlifenow.com/)
-**Category placement:** All skill levels
-**Type:** Curated Source
-**Author:** Sheila Finkelstein
-**Last date accessed**: 9/13/2026
+* **Category placement:** All skill levels
+* **Type:** Curated Source
+* **Author:** Sheila Finkelstein
+* **Last date accessed**: 9/13/2026  
 **Annotation:** Sheila Finkelstein's Technology for Seniors describes a teaching approach centered on helping boomers and seniors feel secure using technology and social media to connect with others. It is valuable because it reinforces the project's emphasis on connection and confidence rather than treating older users as incapable. It is most useful for an older adult or family member looking for approachable, video-based learning. The resource is creator-led rather than peer-reviewed, and the page points to a channel and related materials instead of one defined tutorial. 
 
 # 3
