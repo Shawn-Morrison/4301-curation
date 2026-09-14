@@ -41,9 +41,9 @@ The collection focuses on familiar consumer applications that can help an older 
 
 The first level is skill level: beginner, intermediate, and experienced. Each level is then divided into communication, social, and entertainment apps. This makes the categories mutually exclusive at the first decision point: a reader can start with how comfortable they feel rather than having to understand app features first. The second level lets them find the purpose they need, such as calling family or watching videos. The arrangement also keeps safety in view: apps with more public interaction, privacy settings, recommendations, or content from strangers are placed later in the learning path.
 
-## Initial source annotations
+## Source Annotations
 
-[Read the six initial source annotations](Sources/index) supporting this project's first set of choices and its safety-first approach.
+[Read the source annotations](Sources/index) supporting this project's source choices and its safety-first approach.
 
 ## Tool Selection: Obsidian and Markdown
 
@@ -51,4 +51,4 @@ I will use Obsidian and Markdown to build this collection. Obsidian makes the ca
 
 ## Continue exploring
 
-Choose a comfort level: [Beginner](Beginner/index), [Intermediate](Intermediate/index), or [Experienced](Experienced/index). You can also read the [initial source annotations](Sources/index) or the [metadata strategy](Metadata-Strategy).
+Choose a comfort level: [Beginner](Beginner/index), [Intermediate](Intermediate/index), or [Experienced](Experienced/index). You can also read the [Source Annotations](Sources/index) or the [metadata strategy](Metadata-Strategy).

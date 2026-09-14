@@ -15,7 +15,7 @@
               "state": {
                 "file": "Database-Summary.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Database-Summary"
@@ -190,6 +190,12 @@
   },
   "active": "a241e54c4d1db2c1",
   "lastOpenFiles": [
+    "index.md",
+    "Sources/index.md",
+    "Apps/Libby.md",
+    "Apps/Contacts.md",
+    "Apps/Camera.md",
+    "Database-Summary.md",
     "Apps/Zoom.md",
     "Apps/YouTube.md",
     "Apps/Uber.md",
@@ -198,19 +204,13 @@
     "Apps/Photos.md",
     "Apps/Phone.md",
     "Apps/Messages.md",
-    "Apps/Libby.md",
     "Apps/Kindle.md",
     "Apps/Instagram.md",
     "Apps/FaceTime.md",
     "Apps/Facebook-Messenger.md",
     "Apps/Facebook.md",
     "Apps/Duolingo.md",
-    "Apps/Contacts.md",
-    "Apps/Camera.md",
-    "Database-Summary.md",
-    "index.md",
     "Metadata-Strategy.md",
-    "Sources/index.md",
     "Experienced/index.md",
     "Intermediate/index.md",
     "Beginner/index.md",
