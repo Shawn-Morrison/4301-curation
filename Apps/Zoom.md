@@ -23,13 +23,15 @@ related:
   - "[[Sources/index]]"
   - "[[Metadata-Strategy]]"
 ---
-
 # Zoom
 
 **Category:** Intermediate > Communication
 
-Zoom is placed at the intermediate level because joining meetings and managing invitations adds steps beyond a one-to-one call. A future entry can add setup notes and a safety checklist after they are reviewed.
+Zoom is placed at the intermediate level because joining meetings and managing invitations adds steps beyond a one-to-one call. 
 
+# Risk Level: 6
+
+This application has a risk level of 6 because it can be used by scam artists to contact users. The application can require some set up and the user interface is not naturally intuitive. 
 ## Related pages
 
 View other apps:  

@@ -21,13 +21,15 @@ related:
   - "[[Sources/index]]"
   - "[[Metadata-Strategy]]"
 ---
-
 # Messages
 
 **Category:** Beginner > Communication
 
 Messages is included as a familiar starting point for text conversations with known contacts. A future entry can add setup notes, accessibility options, and a short safety checklist after they are reviewed.
 
+# Risk Level: 3
+
+This application has a risk level of 3 because it can be used by bad actors to send links to unsuspecting victims. Victims can click unknown links that can compromise accounts. Use messages with caution, and never click on a link without verifying with the person who sent it that you know them and the link is legitimate. 
 ## Related pages
 
 View other apps:  

@@ -21,13 +21,15 @@ related:
   - "[[Sources/index]]"
   - "[[Metadata-Strategy]]"
 ---
-
 # Spotify
 
 **Category:** Experienced > Entertainment
 
 Spotify is a robust entertainment app that can be used for listening to music, podcasts, or audiobooks. It has many features and can be complex to use. It is in the Experienced category because a person could get easily frustrated trying to use this app, despite it's many benefits. 
 
+# Risk Level: 7
+
+This application has a risk level of 7 because while there is a free version, the premium version is much better and requires creating an account and setting up payment. There also is a way to purchase an audiobook subscription, so because of the financial risk, this is rated a 7. 
 ## Related pages
 
 View other apps:  

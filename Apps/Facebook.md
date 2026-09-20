@@ -22,7 +22,6 @@ related:
   - "[[Sources/index]]"
   - "[[Metadata-Strategy]]"
 ---
-
 # Facebook
 
 **Category:** Intermediate > Social
@@ -30,6 +29,9 @@ related:
 
 Facebook is placed at the [Intermediate](../Intermediate/index) and [Experienced](../Experienced/index) level because it can connect a person with family, friends, and interest groups, while also requiring attention to privacy, posts from strangers, and information quality. NOTE: Facebook Messenger is part of this app, but is not included in the [Intermediate](../Intermediate/index) category because of increase scam risks. 
 
+# Risk Level: 4 or 7
+
+This application has a risk level can be 4 or 7 depending on how it is used. Because it allows you to communicate with potentially unknown users, it can open the user up to certain risks. If it is set up with the correct privacy and communication settings, it can be lower risk. 
 ## Related pages
 
 View other apps:  

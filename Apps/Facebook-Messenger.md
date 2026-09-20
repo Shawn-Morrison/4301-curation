@@ -21,13 +21,15 @@ related:
   - "[[Sources/index]]"
   - "[[Metadata-Strategy]]"
 ---
-
 # Facebook Messenger
 
 **Category:** Experienced > Communication
 
 Facebook Messenger is a messaging application that is native inside the Facebook app, but is also it's own application. It is placed at the Experienced level because it can connect a person with family, friends, and interest groups, but it can also open the user up to messages from the public, and scam artists often use Facebook messenger as a way to target unsuspecting users.  
 
+# Risk Level: 8
+
+This application has a risk level of 8 because it allows direct communication with unknown users. Facebook messenger is often used by scam artists and should be used with more caution. 
 ## Related pages
 
 View other apps:  

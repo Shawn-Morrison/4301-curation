@@ -21,12 +21,15 @@ related:
   - "[[Sources/index]]"
   - "[[Metadata-Strategy]]"
 ---
-
 # Camera
 
 **Category:** Beginner > Entertainment
 
 Camera is an app used for personal entertainment that allows you to take photos or videos of yourself, your family, pets, important moments, or important items. There are many functions that can be complex for beginners, but there is little risk of use if it is used alone and not in conjunction with other applications.
+
+# Risk Level: 2
+
+This application has a risk level of 2 because it does require some awareness of the photos you are taking. Never take photos of sensitive information such as bank accounts or passwords.
 
 ## Related pages
 

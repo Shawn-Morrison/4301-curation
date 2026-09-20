@@ -218,7 +218,7 @@ related:
 
 # Experienced Apps
 
-This level is reserved for future apps that require a person to make more independent choices about privacy, public interaction, recommendations, or unfamiliar information. No additional applications have been added yet.
+This level is reserved for apps that require a person to make more independent choices about privacy, public interaction, recommendations, or unfamiliar information. These applications are for those who are very comfortable and skilled at creating accounts, are able to determine truth from falsehood, and are familiar with how online scams are executed. 
 
 ## Communication apps
 

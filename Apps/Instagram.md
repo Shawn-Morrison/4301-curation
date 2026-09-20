@@ -21,13 +21,15 @@ related:
   - "[[Sources/index]]"
   - "[[Metadata-Strategy]]"
 ---
-
-Instagram
+# Instagram
 
 **Category:** Experienced > Social
 
 Instagram can be used in conjunction with the [Camera](../Apps/Camera) and [Photos](../Apps/Photos) apps to share photos with friends and others online. It should be used with caution because photos can be shared publicly. Experienced users are aware of the dangers of posting personal information in apps like this and scam artists often use Instagram to target seniors. 
 
+# Risk Level: 7
+
+This application has a risk level of 7 because of the privacy risk. It is used to upload photos and does have a message platform built into it. Scam artist often use Instagram to target victims. 
 ## Related pages
 
 View other apps:  

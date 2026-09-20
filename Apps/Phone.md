@@ -21,13 +21,15 @@ related:
   - "[[Sources/index]]"
   - "[[Metadata-Strategy]]"
 ---
-
 # Phone
 
 **Category:** Beginner > Communication
 
 Phone is a communication app that allows you to make calls out, review incoming or missed calls, and answer incoming calls. When you think of a regular telephone, this is the same thing, just kept in one small application on your mobile device.
 
+# Risk Level: 1 or 2
+
+This application has a risk level of 2 because it is primarily used to communicate with people already in contacts. Unknown calls can be filtered, but that feature must be set up. If that is set up, the risk is lowered to a 1. 
 ## Related pages
 
 View other apps:  

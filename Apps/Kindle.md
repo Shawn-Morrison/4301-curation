@@ -21,13 +21,15 @@ related:
   - "[[Sources/index]]"
   - "[[Metadata-Strategy]]"
 ---
-
 # Kindle
 
 **Category:** Intermediate > Entertainment
 
 The Kindle app, is an easy to use app that pairs with your Amazon.com account to provide access to books, audiobooks, and other resources that are available on your Amazon Kindle account.  Because this app is free, but can take some initial set up to purchase some eBooks, and some knowledge of how to order the books on Amazon, I have put it in the intermediate category. 
 
+# Risk Level: 4
+
+This application has a risk level of 4 because it can be connected to a Credit/Debit card and used for purchases. Users should be aware of what they are buying and the costs associated with it. 
 ## Related pages
 
 View other apps:  

@@ -28,6 +28,9 @@ related:
 
 Contacts is like a phone book for your phone. You can keep a running record of friends and family contact information that is held in a single place on your phone. Think of this like a personal rolodex of your contacts.  
 
+# Risk Level: 1
+
+This application has a risk level of 1 because the contacts are saved on your phone and there is very little interaction with unknown people. 
 ## Related pages
 
 View other apps:  

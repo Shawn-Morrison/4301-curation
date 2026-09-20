@@ -21,13 +21,15 @@ related:
   - "[[Sources/index]]"
   - "[[Metadata-Strategy]]"
 ---
-
 # Solitaire
 
 **Category:** Beginner > Entertainment
 
 The Solitaire app by mobilityware is a simple offline version of the card game solitaire. It does have advertisements, but they are pretty simple to close and because the game can be used when not online, it is very useful for passing time at doctors offices and hospitals where service may be limited. 
 
+# Risk Level: 2
+
+This application has a risk level of 2 because the advertisements can sometimes lead the user outside of the application without realizing it. Some of the ads are harmless, and some will ask for payment. 
 ## Related pages
 
 View other apps:  

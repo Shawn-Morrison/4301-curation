@@ -21,13 +21,15 @@ related:
   - "[[Sources/index]]"
   - "[[Metadata-Strategy]]"
 ---
-
 # FaceTime
 
 **Category:** Beginner > Communication
 
 FaceTime is included as a familiar starting point for video or audio calls with trusted family and friends on Apple devices. A future entry can add setup notes, accessibility options, and a short safety checklist after they are reviewed. 
 
+# Risk Level: 3
+
+This application has a risk level of 3 because it can be used to call unknown users, although typically it is used with someone in your contacts. There is also a privacy risk because it captures video and sends that to others. 
 ## Related pages
 
 View other apps:  

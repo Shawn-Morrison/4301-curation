@@ -21,13 +21,15 @@ related:
   - "[[Sources/index]]"
   - "[[Metadata-Strategy]]"
 ---
-
 # Libby, The library App
 
 **Category:** Intermediate > Entertainment
 
 The Library App, Libby, is an easy to use app that pairs with your local library card to provide access to books, audiobooks, and other resources that are available at your local library, right on your phone. Because this app is free, but can take some initial set up and some knowledge, I have put it in the intermediate category. 
 
+# Risk Level: 4
+
+This application has a risk level of 4 because it requires some initial set up and contains personal information. Other than that, this is a low risk app.
 ## Related pages
 
 View other apps:  
